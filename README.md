@@ -1,4 +1,4 @@
-# Linux_Chat_App
+# Linux_based_Chat_App
 
 ## 👨‍💻 Project Title:
 Chatting Application Using FIFO (Named Pipes) and IPC in C
